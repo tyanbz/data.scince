@@ -6,4 +6,4 @@
 
 ### Заметки урока №2
 Внутри папка есть домашка.
-> Учебные pdf-ки [здесь] (https://github.com/tyanbz/data.science/tree/main/lesson_2/pdf)
+> Учебные pdf-ки [here] (https://github.com/tyanbz/data.science/tree/main/lesson_2/pdf)
